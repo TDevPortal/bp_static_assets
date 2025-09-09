@@ -1,0 +1,1 @@
+# bp_static_assets
